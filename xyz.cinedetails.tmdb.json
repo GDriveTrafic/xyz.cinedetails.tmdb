@@ -1,0 +1,45 @@
+{
+  "admob": {
+    "banner_id": "TTTTTca-app-pub-3940256099942544/6300978111",
+    "inter_id": "TTTTTca-app-pub-3940256099942544/1033173712",
+    "native_id": "TTTTTca-app-pub-3940256099942544/2247696110",
+    "app_id": "TTTTTca-app-pub-3940256099942544/2247696110"
+  },
+  "facebook": {
+    "banner_id": "947347886567873_948316526471009",
+    "inter_id": "947347886567873_947362469899748",
+    "native_id": "947347886567873_948316346471027",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "yandex": {
+    "banner_id": "R-M-1698866-1",
+    "inter_id": "R-M-1698866-2",
+    "native_id": "R-M-1698866-3",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "applovin": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "unity": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "app_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "Enabled_Networks": [
+    "Admob"
+  ],
+  "Inter_Networks": [
+    "Admob"
+  ],
+  "Banner_Networks": [
+   "Admob"
+  ],
+  "Native_Networks": [
+    "Admob"
+  ],
+  "inter_counter": 1
+}
