@@ -30,13 +30,13 @@
     "app_id": "ca-app-pub-3940256099942544/2247696110"
   },
   "Enabled_Networks": [
-    "Fan"
+    "Admob"
   ],
   "Inter_Networks": [
-    "Fan"
+    "Admob"
   ],
   "Banner_Networks": [
-   "Fan"
+   "Admob"
   ],
   "Native_Networks": [
     "Admob"
